@@ -1,0 +1,12 @@
+Tareas pendientes:
+1. Implementar login
+2. Crear dashboard
+3. Validar formularios
+
+Tareas realizadas:
+1. Configurar repositorio
+2. Crear ramas principales
+
+Tareas bloqueadas:
+1. Error en merge
+2. Conflicto en notas.md
