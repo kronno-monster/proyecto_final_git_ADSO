@@ -1,5 +1,5 @@
 /*
-  Rama: feature/login
+  Rama: feature/dashboard
   Fecha: 25/11/2025
   Descripción: Aquí irá el código de la funcionalidad.
 */
