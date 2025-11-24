@@ -94,11 +94,35 @@ Envía los cambios locales al repositorio remoto por primera vez.
    Hacer commits
 
    Fusionar con main usando git merge
+
 Problemas encontrados hoy
 
-Durante la sesión se presentaron dificultades al momento de conectar el repositorio local con GitHub debido a configuraciones incorrectas y errores al usar los comandos básicos. 
-También surgieron confusiones con el manejo de ramas y algunos mensajes de advertencia al agregar archivos.
-Finalmente, se resolvieron al revisar los comandos correctos, rehacer algunos pasos y validar correctamente la configuración de Git.
+Hoy tuve varios problemas relacionados con Git. El primero fue al crear y cambiar entre
+ramas, ya que en algunos momentos no sabía en cuál rama estaba trabajando. También tuve
+dificultades al generar y resolver un conflicto en Git, especialmente cuando aparecieron
+los bloques <<<<<<< HEAD y =======, porque no entendía cómo funcionaban al principio.
+
+Otro problema fue que me apareció un archivo llamado “main” como untracked, lo cual me
+confundió porque pensé que era un error del repositorio. Además, tuve que revisar varias
+veces el estado de los archivos para entender qué cambios estaba siguiendo Git y cuáles
+no.
+
+A pesar de estos problemas, logré solucionarlos con práctica y entendiendo mejor el
+funcionamiento de cada comando.
+
+¿Qué aprendí hoy?
+Aprendí a crear ramas, hacer commits, subir cambios a GitHub, resolver conflictos,
+crear Pull Requests y realizar merges correctamente. También reforcé el manejo básico
+de Git Bash y entendí mejor el flujo profesional de trabajo.
+
+¿Qué fue lo mas difícil?
+Lo más difícil fue entender los conflictos y saber cómo resolverlos manualmente.
+También me costó saber cuándo estaba en cada rama.
+
+Conclusión del taller
+El taller me ayudó a reforzar Git de manera real. Ahora entiendo mejor cómo trabajar
+con ramas, PRs y conflictos. Es un proceso que requiere práctica, pero ya me siento
+más seguro usando Git y GitHub.
 
 Conclusión del día
 
